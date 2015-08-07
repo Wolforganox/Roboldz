@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>dukong.png</Source>
+      <Name>dukong</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\dukong.xnb</Output>
+      <Time>2014-11-03T14:21:03.4968211-03:00</Time>
+    </Item>
+    <Item>
+      <Source>fondo.png</Source>
+      <Name>fondo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\fondo.xnb</Output>
+      <Time>2015-08-05T16:51:03.408753-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Pj.png</Source>
+      <Name>Pj</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\Pj.xnb</Output>
+      <Time>2014-11-04T10:10:47.0937958-03:00</Time>
+    </Item>
+    <Item>
+      <Source>tPjdisparo.png</Source>
+      <Name>tPjdisparo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\tPjdisparo.xnb</Output>
+      <Time>2014-11-04T11:34:26.8615388-03:00</Time>
+    </Item>
+    <Item>
+      <Source>enemigo.png</Source>
+      <Name>enemigo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\enemigo.xnb</Output>
+      <Time>2014-11-07T01:47:02.7312978-03:00</Time>
+    </Item>
+    <Item>
+      <Source>enemigoa.png</Source>
+      <Name>enemigoa</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\enemigoa.xnb</Output>
+      <Time>2014-11-07T01:41:31.1801878-03:00</Time>
+    </Item>
+    <Item>
+      <Source>muerenemigo.png</Source>
+      <Name>muerenemigo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\muerenemigo.xnb</Output>
+      <Time>2015-08-06T03:54:33.8787508-03:00</Time>
+    </Item>
+    <Item>
+      <Source>vidaPj.png</Source>
+      <Name>vidaPj</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\vidaPj.xnb</Output>
+      <Time>2014-11-07T15:23:21.6579759-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu0créditos.png</Source>
+      <Name>Menu0créditos</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\Menu0créditos.xnb</Output>
+      <Time>2014-11-07T16:36:50.8118317-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu0jugar.png</Source>
+      <Name>Menu0jugar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\Menu0jugar.xnb</Output>
+      <Time>2014-11-07T16:37:00.1288823-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu0tutorial.png</Source>
+      <Name>Menu0tutorial</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\Menu0tutorial.xnb</Output>
+      <Time>2014-11-07T16:36:53.6115761-03:00</Time>
+    </Item>
+    <Item>
+      <Source>tutorial.png</Source>
+      <Name>tutorial</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\tutorial.xnb</Output>
+      <Time>2015-08-04T16:44:10.5371189-03:00</Time>
+    </Item>
+    <Item>
+      <Source>tgameover.png</Source>
+      <Name>tgameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\tgameover.xnb</Output>
+      <Time>2014-11-07T19:05:30.1874509-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Escape The Fate.wav</Source>
+      <Name>Escape The Fate</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\Escape The Fate.xnb</Output>
+      <Extra>D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\Escape The Fate.wma</Extra>
+      <Time>2014-11-07T16:16:27.5848814-03:00</Time>
+    </Item>
+    <Item>
+      <Source>efectotecla.wav</Source>
+      <Name>efectotecla</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\efectotecla.xnb</Output>
+      <Time>2014-11-07T17:40:08.0130082-03:00</Time>
+    </Item>
+    <Item>
+      <Source>mp3Game Over.mp3</Source>
+      <Name>mp3Game Over</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\mp3Game Over.xnb</Output>
+      <Extra>D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\mp3Game Over.wma</Extra>
+      <Time>2015-08-04T23:46:47.770041-03:00</Time>
+    </Item>
+    <Item>
+      <Source>muerteenemigo.wav</Source>
+      <Name>muerteenemigo</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\muerteenemigo.xnb</Output>
+      <Time>2015-08-05T00:24:00.4100933-03:00</Time>
+    </Item>
+    <Item>
+      <Source>efectoduko.wav</Source>
+      <Name>efectoduko</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\efectoduko.xnb</Output>
+      <Time>2015-08-05T15:43:44.7682431-03:00</Time>
+    </Item>
+    <Item>
+      <Source>pierdevida.wav</Source>
+      <Name>pierdevida</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\pierdevida.xnb</Output>
+      <Time>2015-08-05T16:47:27.3472056-03:00</Time>
+    </Item>
+    <Item>
+      <Source>final boss.png</Source>
+      <Name>final boss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\final boss.xnb</Output>
+      <Time>2015-08-06T04:42:52.812973-03:00</Time>
+    </Item>
+    <Item>
+      <Source>00 - Noisia - Machine Gun (16Bit remix).mp3</Source>
+      <Name>00 - Noisia - Machine Gun (16Bit remix)</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\00 - Noisia - Machine Gun (16Bit remix).xnb</Output>
+      <Extra>D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\00 - Noisia - Machine Gun (16Bit remix).wma</Extra>
+      <Time>2015-08-06T05:34:05.9352406-03:00</Time>
+    </Item>
+    <Item>
+      <Source>bossdalaorden.png</Source>
+      <Name>bossdalaorden</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\bossdalaorden.xnb</Output>
+      <Time>2015-08-07T04:44:57.3482075-03:00</Time>
+    </Item>
+    <Item>
+      <Source>fondo ganaste.png</Source>
+      <Name>fondo ganaste</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\fondo ganaste.xnb</Output>
+      <Time>2015-08-07T05:24:58.8477962-03:00</Time>
+    </Item>
+    <Item>
+      <Source>chickennnn.wav</Source>
+      <Name>chickennnn</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\chickennnn.xnb</Output>
+      <Time>2015-08-07T05:36:40.5756349-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Projects\Roboldz\Roboldz\RoboldzContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Projects\Roboldz\Roboldz\Roboldz\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Projects\Roboldz\Roboldz\RoboldzContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-08-04T15:32:13.7657734-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

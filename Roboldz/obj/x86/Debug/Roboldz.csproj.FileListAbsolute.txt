@@ -1,0 +1,58 @@
+c:\users\wolf\documents\visual studio 2010\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Roboldz.exe
+c:\users\wolf\documents\visual studio 2010\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Roboldz.pdb
+c:\users\wolf\documents\visual studio 2010\Projects\Roboldz\Roboldz\Roboldz\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\wolf\documents\visual studio 2010\Projects\Roboldz\Roboldz\Roboldz\obj\x86\Debug\Roboldz.exe
+c:\users\wolf\documents\visual studio 2010\Projects\Roboldz\Roboldz\Roboldz\obj\x86\Debug\Roboldz.pdb
+c:\users\wolf\documents\visual studio 2010\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\dukong.xnb
+c:\users\wolf\documents\visual studio 2010\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\fondo.xnb
+C:\Users\wolf\Documents\Visual Studio 2010\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\Pj.xnb
+C:\Users\wolf\Documents\Visual Studio 2010\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\tPjdisparo.xnb
+C:\Users\wolf\Documents\Visual Studio 2010\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\enemigo.xnb
+C:\Users\wolf\Documents\Visual Studio 2010\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\enemigoa1.xnb
+C:\Users\wolf\Documents\Visual Studio 2010\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\enemigoa2.xnb
+C:\Users\wolf\Documents\Visual Studio 2010\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\enemigoa3.xnb
+C:\Users\wolf\Documents\Visual Studio 2010\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\enemigoa.xnb
+C:\Users\wolf\Documents\Visual Studio 2010\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\muerenemigo.xnb
+C:\Users\wolf\Documents\Visual Studio 2010\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\vidaPj.xnb
+C:\Users\wolf\Documents\Visual Studio 2010\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\Escape The Fate.xnb
+C:\Users\wolf\Documents\Visual Studio 2010\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\Escape The Fate.wma
+C:\Users\wolf\Documents\Visual Studio 2010\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\Menu0créditos.xnb
+C:\Users\wolf\Documents\Visual Studio 2010\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\Menu0jugar.xnb
+C:\Users\wolf\Documents\Visual Studio 2010\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\Menu0tutorial.xnb
+C:\Users\wolf\Documents\Visual Studio 2010\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\efectotecla.xnb
+C:\Users\wolf\Documents\Visual Studio 2010\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\tutorial.xnb
+C:\Users\wolf\Documents\Visual Studio 2010\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\tgameover.xnb
+C:\Users\wolf\Documents\Visual Studio 2010\Projects\Roboldz\Roboldz\Roboldz\obj\x86\Debug\Roboldz.csprojResolveAssemblyReference.cache
+D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\dukong.xnb
+D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\fondo.xnb
+D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\Pj.xnb
+D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\tPjdisparo.xnb
+D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\enemigo.xnb
+D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\enemigoa.xnb
+D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\muerenemigo.xnb
+D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\vidaPj.xnb
+D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\Menu0créditos.xnb
+D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\Menu0jugar.xnb
+D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\Menu0tutorial.xnb
+D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\tutorial.xnb
+D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\tgameover.xnb
+D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\Escape The Fate.xnb
+D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\efectotecla.xnb
+D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\Escape The Fate.wma
+D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Roboldz.exe
+D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Roboldz.pdb
+D:\Projects\Roboldz\Roboldz\Roboldz\obj\x86\Debug\Roboldz.csprojResolveAssemblyReference.cache
+D:\Projects\Roboldz\Roboldz\Roboldz\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Projects\Roboldz\Roboldz\Roboldz\obj\x86\Debug\Roboldz.exe
+D:\Projects\Roboldz\Roboldz\Roboldz\obj\x86\Debug\Roboldz.pdb
+D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\mp3Game Over.xnb
+D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\mp3Game Over.wma
+D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\muerteenemigo.xnb
+D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\efectoduko.xnb
+D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\final boss.xnb
+D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\pierdevida.xnb
+D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\00 - Noisia - Machine Gun (16Bit remix).xnb
+D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\00 - Noisia - Machine Gun (16Bit remix).wma
+D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\bossdalaorden.xnb
+D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\fondo ganaste.xnb
+D:\Projects\Roboldz\Roboldz\Roboldz\bin\x86\Debug\Content\chickennnn.xnb

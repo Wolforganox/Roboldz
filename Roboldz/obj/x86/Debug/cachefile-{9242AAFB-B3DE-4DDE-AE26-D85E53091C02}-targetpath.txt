@@ -1,0 +1,27 @@
+Content\dukong.xnb
+Content\fondo.xnb
+Content\Pj.xnb
+Content\tPjdisparo.xnb
+Content\enemigo.xnb
+Content\enemigoa.xnb
+Content\muerenemigo.xnb
+Content\vidaPj.xnb
+Content\Menu0créditos.xnb
+Content\Menu0jugar.xnb
+Content\Menu0tutorial.xnb
+Content\tutorial.xnb
+Content\tgameover.xnb
+Content\Escape The Fate.xnb
+Content\Escape The Fate.wma
+Content\efectotecla.xnb
+Content\mp3Game Over.xnb
+Content\mp3Game Over.wma
+Content\muerteenemigo.xnb
+Content\efectoduko.xnb
+Content\pierdevida.xnb
+Content\final boss.xnb
+Content\00 - Noisia - Machine Gun (16Bit remix).xnb
+Content\00 - Noisia - Machine Gun (16Bit remix).wma
+Content\bossdalaorden.xnb
+Content\fondo ganaste.xnb
+Content\chickennnn.xnb

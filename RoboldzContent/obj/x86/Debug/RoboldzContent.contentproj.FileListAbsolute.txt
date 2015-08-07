@@ -1,0 +1,2 @@
+C:\Users\wolf\Documents\Visual Studio 2010\Projects\Roboldz\Roboldz\RoboldzContent\obj\x86\Debug\RoboldzContent.contentprojResolveAssemblyReference.cache
+D:\Projects\Roboldz\Roboldz\RoboldzContent\obj\x86\Debug\RoboldzContent.contentprojResolveAssemblyReference.cache
